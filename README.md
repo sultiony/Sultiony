@@ -3,7 +3,7 @@
 
 I’m a creator from Saudi Arabia 🇸🇦. I like exploring new technology, building useful tools, and developing creative ideas into real projects.
 
-### 🚀 What I’m Exploring
+### 🗺️ What I’m Exploring
 
 - 🤖 **AI and local AI** — Experimenting with AI tools, local models, and ways to make creative workflows more useful.
 - 🛠️ **Software and tools** — Building and exploring apps, developer tools, and productivity projects.
