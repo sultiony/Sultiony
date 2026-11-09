@@ -1,5 +1,4 @@
-# Hey, I’m Sultiony 🤩
-
+# Hey, I’m Sultiony 💕
 **AI Explorer · Software Creator · Filmmaker**
 
 I’m a creator from Saudi Arabia 🇸🇦. I like exploring new technology, building useful tools, and developing creative ideas into real projects.
