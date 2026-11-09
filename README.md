@@ -1,4 +1,4 @@
-# Hey, I’m Sultiony 👋
+# Hey, I’m Sultiony 🤩
 
 **AI Explorer · Software Creator · Filmmaker**
 
